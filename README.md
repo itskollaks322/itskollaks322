@@ -6,13 +6,6 @@
 
 ---
 
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=itskollaks322&theme=radical&hide_border=true" width="55%" />
-</p>
-
----
-
 <h3 align="center">☕ Пишу код на Java</h3>
 
 <p align="center">
