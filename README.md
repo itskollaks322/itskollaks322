@@ -1,7 +1,7 @@
 <h1 align="center">itzkollaks322</h1>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?color=%2336BCF7&lines=Java+Developer;Добро+пожаловать+на+мой+профиль+гитхаб!" />
+  <img src="https://readme-typing-svg.herokuapp.com?color=%2336BCF7&lines=Добро+пожаловать+на+мой+профиль!" />
 </p>
 
 ---
