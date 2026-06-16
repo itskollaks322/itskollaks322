@@ -19,7 +19,7 @@
   <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white" />
   <img src="https://img.shields.io/badge/IntelliJ_IDEA-000000?style=for-the-badge&logo=intellij-idea&logoColor=white" />
   <img src="https://img.shields.io/badge/Spigot-ED8106?style=for-the-badge&logo=spigotmc&logoColor=white" />
-  <img src="https://img.shields.io/badge/Paper-1C2C3E?style=for-the-badge&logo=paper&logoColor=white" />
+ 
 </p>
 
 ---
