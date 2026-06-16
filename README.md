@@ -28,6 +28,3 @@
   <img src="https://komarev.com/ghpvc/?username=itskollaks322&color=blueviolet&style=flat-square" />
 </p>
 
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer" />
-</p>
