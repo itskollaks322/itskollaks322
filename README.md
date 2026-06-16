@@ -1,8 +1,37 @@
-<h1 align="center">
-  <img src="https://github.com/blackcater/blackcater/raw/main/images/Hi.gif" height="32"/>
-  itzkollaks322
-</h1>
+<h1 align="center">itzkollaks322</h1>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/wakatime?username=itskollaks322&layout=compact&theme=radical" />
+  <img src="https://readme-typing-svg.herokuapp.com?color=%2336BCF7&lines=Java+Developer;Пишу+код+на+Java;Создаю+проекты;Добро+пожаловать!" />
+</p>
+
+---
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=itskollaks322&show_icons=true&theme=radical&hide_border=true&count_private=true" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=itskollaks322&layout=compact&theme=radical&hide_border=true&langs_count=6" width="42%" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=itskollaks322&theme=radical&hide_border=true" width="55%" />
+</p>
+
+---
+
+<h3 align="center">☕ Пишу код на Java</h3>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white" />
+  <img src="https://img.shields.io/badge/Spring-6DB33F?style=for-the-badge&logo=spring&logoColor=white" />
+  <img src="https://img.shields.io/badge/IntelliJ_IDEA-000000?style=for-the-badge&logo=intellij-idea&logoColor=white" />
+  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
+</p>
+
+---
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=itskollaks322&color=blueviolet&style=flat-square" />
+</p>
+
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer" />
 </p>
